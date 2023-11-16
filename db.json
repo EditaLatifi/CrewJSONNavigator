@@ -1,0 +1,121 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "SaleUpToDate",
+      "employee_list": [
+        {
+          "id": 1,
+          "name": "Leonora Latifaj",
+          "address": "nazmi osmani 1245, 21",
+          "email": "leonora.latifaj123@gmail.com",
+          "phone": "445554545",
+          "task_list": [
+            {
+              "id": "1",
+              "summary": "TaskUpdate",
+              "acceptanceCriteria": "Tasks",
+              "status": "IN_PROGRESS",
+              "priority": "1"
+            },
+            {
+              "id": 9,
+              "summary": "Task for marketing",
+              "acceptanceCriteria": "Prepare and fix YouTube video",
+              "status": "IN_PROGRESS",
+              "priority": 2
+            },
+            {
+              "id": 10,
+              "summary": "Task for marketing",
+              "acceptanceCriteria": "Prepare and fix YouTube video",
+              "status": "INPUT QUEUE",
+              "priority": 2
+            },
+            {
+              "id": 11,
+              "summary": "Task for marketing",
+              "acceptanceCriteria": "Prepare and fix YouTube video",
+              "status": "DONE",
+              "priority": 1
+            },
+            {
+              "id": 12,
+              "summary": "Task for marketing",
+              "acceptanceCriteria": "Prepare and fix YouTube video",
+              "status": "IN_PROGRESS",
+              "priority": "2"
+            },
+            {
+              "id": 13,
+              "summary": "Task for marketing",
+              "acceptanceCriteria": "Prepare and fix YouTube video",
+              "status": "INPUT QUEUE",
+              "priority": 3
+            },
+            {
+              "id": 14,
+              "summary": "TaskUpdate",
+              "acceptanceCriteria": "Task3",
+              "status": "DONE",
+              "priority": 3
+            },
+            {
+              "id": 15,
+              "summary": "TaskUpdate",
+              "acceptanceCriteria": "Task3",
+              "status": "INPUT QUEUE",
+              "priority": 1
+            },
+            {
+              "id": 16,
+              "summary": "TaskUpdate",
+              "acceptanceCriteria": "Task3",
+              "status": "DONE",
+              "priority": 1
+            },
+            {
+              "id": 17,
+              "summary": "TASKS FOR EDITA",
+              "acceptanceCriteria": "TASKS ",
+              "status": "INPUT QUEUE",
+              "priority": 1
+            },
+            {
+              "id": 18,
+              "summary": "Task for JavaWeb ",
+              "acceptanceCriteria": "Finish Module 3 to 6 in Member Area",
+              "status": "DONE",
+              "priority": 1
+            },
+            {
+              "id": 19,
+              "summary": "Task for JavaWeb ",
+              "acceptanceCriteria": "Finish Module 3 to 6 in Member Area",
+              "status": "IN_PROGRESS",
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Leonora Latifaj",
+          "address": "nazmi osmani 1245, 21",
+          "email": "leonora.latifaj@student.uni-pr.edu",
+          "phone": "445554545",
+          "task_list": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pyth",
+      "employee_list": []
+    }
+  ],
+  "lastUsedId": {
+    "departmentId": 8,
+    "employeeId": 5,
+    "taskId": 20
+  }
+}
